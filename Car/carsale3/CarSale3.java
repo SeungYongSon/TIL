@@ -1,7 +1,7 @@
 package carsale3;
 // 생성자
 //
-// 이제 CarSale4 를 보자. 프로그램은 오류가 없지만 버그가 있다. 확인 해보자.
+// 생성자는 객체의 초기화를 담당하는 서브루틴이다.
 class CarDealer{
 	String carName;
 	final int PRICE; // final 을 다시 붙임. 아까 방법으로 값을 못 바꾸게 됨.
@@ -57,4 +57,4 @@ public class CarSale3 {
 		
 		buyer.buyResult();
 	}
-}
+}// 이제 CarSale4 를 보자. 프로그램은 오류가 없지만 버그가 있다. 확인 해보자.
