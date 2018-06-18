@@ -43,3 +43,9 @@ Comment out a line or block of code.
 Ctrl+Shift+F7	 
 Highlight usages in file  
 Visualize all occurrences of the selected fragment in the current file.  
+
+Alt + 1
+Project view
+
+Ctrl + Shift + F10
+Build and run current file.
